@@ -1,3 +1,5 @@
+> Personal fork: the desktop navigation fix and source installation instructions are in [PERSONAL.zh.md](PERSONAL.zh.md). Use branch `personal/navigation-fix`.
+
 <p align="center">
   <img src="assets/better-codex-brand.png" width="420" alt="Better Codex" />
 </p>

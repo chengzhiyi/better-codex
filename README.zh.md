@@ -1,3 +1,5 @@
+> 个人维护版：导航栏修复和源码安装方法见 [PERSONAL.zh.md](PERSONAL.zh.md)，维护分支为 `personal/navigation-fix`。
+
 <p align="center">
   <img src="assets/better-codex-brand.png" width="420" alt="Better Codex" />
 </p>
